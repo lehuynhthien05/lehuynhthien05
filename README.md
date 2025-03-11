@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at International University**
 
-- 💬 Ask me about **facebook.com/lehuynhthien0910**
+- 💬 Ask me about **SpringBoot, React**
 
 - 📫 How to reach me **lehuynhthien05@gmail.com**
 
